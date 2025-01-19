@@ -7,9 +7,8 @@
 <!-- 反向设计 -->
 * ## **_Conditional diffusion for cross-section generation_**
 <div align=center>
-  <img width="200" src="Chart/Gif3.gif"/>
-  <img width="200" src="Chart/Gif0.gif"/>
-  <img width="200" src="Chart/Gif2.gif"/>
-  <img width="200" src="Chart/Gif1.gif"/>
-   <div align=center><strong>Results of the inverse design of complex cross-sections</strong></div>
+  <img width="600" src="Imgs/movie1_.gif"/>
+  <img width="600" src="Imgs/movie2_.gif"/>
+  <img width="600" src="Imgs/movie3_.gif"/>
+   <div align=center><strong>Results of the inverse design of energy-dissipating walls</strong></div>
 </div><br>    
