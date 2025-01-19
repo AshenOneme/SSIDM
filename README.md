@@ -5,7 +5,7 @@
 </div> 
 
 <!-- 反向设计 -->
-* ## **_Conditional diffusion for cross-section generation_**
+* ## **_Self-supervised inverse design model for energy-dissipating wall generation_**
 <div align=center>
   <img width="800" src="Imgs/movie1_.gif"/>
   <img width="800" src="Imgs/movie2_.gif"/>
