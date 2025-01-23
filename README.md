@@ -66,7 +66,7 @@ A total of *__12,800__* EDWs with dimensions of *__240 × 480__* and different s
 <!-- 生成过程 -->
 * ## **_Generation process_**
 
-The generation process of the EDWs under three different mechanical property targets are illustrated in Fig. 4. The red lines represent the mechanical property requirements, while the blue lines indicate the FEA results of the intermediate products during the EDW generation process.The Abaqus calculation files for the corresponding EDWs in the figure are located in folder A.
+The generation process of the EDWs under three different mechanical property targets are illustrated in Fig. 4. The red lines represent the mechanical property requirements, while the blue lines indicate the FEA results of the intermediate products during the EDW generation process.The Abaqus calculation files for the corresponding EDWs in the figure are located in folder [**🔗SSIDM_generation_process**](https://github.com/AshenOneme/SSIDM/tree/main/SSIDM_generation_process).
 <div align=center>
   <img width="1000" src="Imgs/SSIDM_Generation.png"/>
   <div align=center><strong>Fig. 4. The generation process of SSIDM</strong></div>
