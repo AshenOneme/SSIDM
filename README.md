@@ -10,7 +10,7 @@
   <img width="600" src="Imgs/movie1_.gif"/>
   <img width="600" src="Imgs/movie2_.gif"/>
   <img width="600" src="Imgs/movie3_.gif"/>
-   <div align=center><strong>Results of the inverse design of energy-dissipating walls</strong></div>
+   <div align=center><strong>Fig. 1. Results of the inverse design of energy-dissipating walls</strong></div>
 </div><br>    
 
 * ## ⚛️ **_Datasets & Pre-trained models_**
@@ -36,7 +36,7 @@ ___
 In this work, a novel energy-dissipating system integrating non-structural infill walls and energy-dissipating walls (EDWs) is proposed to improve the seismic performance of frame-infill wall structures. Based on the diffusion model, a self-supervised inverse design model (SSIDM) is developed to enhance the design accuracy of complex EDWs.
 <div align=center>
   <img width="1000" src="Imgs/Workflow2.png"/>
-  <div align=center><strong>Fig.1. The proposed workflow for SSIDM</strong></div>
+  <div align=center><strong>Fig. 2. The proposed workflow for SSIDM</strong></div>
 </div><br>
 
 <!-- 数据集 -->
@@ -45,7 +45,7 @@ In this work, a novel energy-dissipating system integrating non-structural infil
 A total of *__12,800__* EDWs with dimensions of *__240 × 480__* and different structures were subjected to low-cycle hysteresis loading, resulting in the corresponding hysteresis curves.
 <div align=center>
   <img width="600" src="Imgs/Loading.gif"/>
-  <div align=center><strong>Fig.2. Low-cycle cyclic hysteresis loading</strong></div>
+  <div align=center><strong>Fig. 3. Low-cycle cyclic hysteresis loading</strong></div>
 </div><br>
 
 <!-- HPPN信息 -->
@@ -66,8 +66,8 @@ A total of *__12,800__* EDWs with dimensions of *__240 × 480__* and different s
 <!-- 生成过程 -->
 * ## **_Generation process_**
 
-The generation process of the EDWs under three different mechanical property targets are illustrated in Fig. 3. The red lines represent the mechanical property requirements, while the blue lines indicate the FEA results of the intermediate products during the EDW generation process.
+The generation process of the EDWs under three different mechanical property targets are illustrated in Fig. 4. The red lines represent the mechanical property requirements, while the blue lines indicate the FEA results of the intermediate products during the EDW generation process.
 <div align=center>
   <img width="1000" src="Imgs/SSIDM_Generation.png"/>
-  <div align=center><strong>Fig.3. The generation process of SSIDM</strong></div>
+  <div align=center><strong>Fig. 4. The generation process of SSIDM</strong></div>
 </div><br>
