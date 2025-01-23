@@ -45,6 +45,7 @@ In this work, a novel energy-dissipating system integrating non-structural infil
 A total of *__12,800__* EDWs with dimensions of *__240 × 480__* and different structures were subjected to low-cycle hysteresis loading, resulting in the corresponding hysteresis curves.
 <div align=center>
   <img width="600" src="Imgs/Loading.gif"/>
+  <img width="800" src="Imgs/Loading2.gif"/>
   <div align=center><strong>Fig.2. Low-cycle cyclic hysteresis loading</strong></div>
 </div><br>
 
