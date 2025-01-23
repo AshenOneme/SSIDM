@@ -13,6 +13,10 @@
    <div align=center><strong>Results of the inverse design of energy-dissipating walls</strong></div>
 </div><br>    
 
+* ## ⚛️ **_Datasets & Pre-trained models_**    
+[**🔗The EDW dataset**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/MNIST-Section-Dataset)     
+[**🔗The weights of the HPPN & DiffEDW**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/ModelWeights)
+
 <div align=center>
   
 ## 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
