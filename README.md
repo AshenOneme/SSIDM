@@ -28,7 +28,7 @@
 
 ___
 
-*__The research introduces a novel framework for designing energy-dissipating walls by utilizing an inverse design method based on self-supervised diffusion models. SSIDM is established by integrating a generator (DiffEDW) and a discriminator (HPPN), which can generate EDW structures that meet the specified mechanical property targets based on the seismic performance demands of the structure.__*
+*__This research introduces a novel framework for designing energy-dissipating walls by utilizing an inverse design method based on self-supervised diffusion models. SSIDM is established by integrating a generator (DiffEDW) and a discriminator (HPPN), which can generate EDW structures that meet the specified mechanical property targets based on the seismic performance demands of the structure.__*
 
 <!-- 流程图 -->
 * ## **_Workflow_**
