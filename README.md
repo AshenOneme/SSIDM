@@ -36,7 +36,7 @@ ___
 In this work, a novel energy-dissipating system integrating non-structural infill walls and energy-dissipating walls (EDWs) is proposed to improve the seismic performance of frame-infill wall structures. Based on the diffusion model, a self-supervised inverse design model (SSIDM) is developed to enhance the design accuracy of complex EDWs.
 <div align=center>
   <img width="1000" src="Imgs/Workflow2.png"/>
-  <div align=center><strong>Fig.1 The proposed workflow for SSIDM</strong></div>
+  <div align=center><strong>Fig.1. The proposed workflow for SSIDM</strong></div>
 </div><br>
 
 <!-- 数据集 -->
@@ -45,11 +45,11 @@ In this work, a novel energy-dissipating system integrating non-structural infil
 A total of *__12,800__* EDWs with dimensions of *__240 × 480__* and different structures were subjected to low-cycle hysteresis loading, resulting in the corresponding hysteresis curves.
 <div align=center>
   <img width="600" src="Imgs/Loading.gif"/>
-  <div align=center><strong>Fig.2 Low-cycle cyclic hysteresis loading</strong></div>
+  <div align=center><strong>Fig.2. Low-cycle cyclic hysteresis loading</strong></div>
 </div><br>
 
 <!-- HPPN信息 -->
-* ## **_Generator parameters and test error_**
+* ## **_Discriminator parameters and test error_**
 8 neural network models were employed to construct the generator, with *__ResNet18__* ultimately selected as the HPPN. The parameter information and errors for each model are presented in the table.
 
 | Model | Params | Memory (MB) | Madd (G) | Flops (G) | MemR+W (MB) | RMSE (kN) |
