@@ -47,3 +47,18 @@ A total of *__12,800__* EDWs with dimensions of *__240 × 480__* and different s
   <img width="600" src="Imgs/Loading.gif"/>
   <div align=center><strong>Fig.2 Low-cycle cyclic hysteresis loading</strong></div>
 </div><br>
+
+<!-- HPPN信息 -->
+* ## **_Model parameters and test error_**
+| Model | Params | Memory (MB) | Madd (G) | Flops (G) | MemR+W (MB) | RMSE (kN) |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| VGG16 | 138,421,457 | 250.89 | 70.49 | 35.3 | 1034.24 | 3.37 |
+| ResNet18 | 11,318,337 | 52.45 | 8.12 | 4.06 | 149.79 | 4.06 |
+| ResNet50 | 23,634,945 | 252.61 |18.72	| 9.38	|595.69 |	4.07 |
+| ResNet101 |	42,627,073 | 372.14 |35.81 | 17.93	|907.20 |4.74 |
+| Inception v4 | 321,473 | 139.25 |16.52 | 8.26 |342.84 | 14.56 |
+| ResNeXt50 |	23,106,817 | 310.32 |19.38 | 9.71 |709.10 | 4.38 |
+| SwinT |	48,836,513 | 376.99 |486.67 |	246.27 |1331.20	| 18.06 |
+| ViT |	85,260,353 | 554.78 |208.98 |	104.95	|651.79 | 12.51 |
+
+
