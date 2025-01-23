@@ -49,11 +49,13 @@ A total of *__12,800__* EDWs with dimensions of *__240 × 480__* and different s
 </div><br>
 
 <!-- HPPN信息 -->
-* ## **_Model parameters and test error_**
+* ## **_Generator parameters and test error_**
+8 neural network models were employed to construct the generator, with ResNet18 ultimately selected as the HPPN. The parameter information and errors for each model are presented in the table.
+
 | Model | Params | Memory (MB) | Madd (G) | Flops (G) | MemR+W (MB) | RMSE (kN) |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | VGG16 | 138,421,457 | 250.89 | 70.49 | 35.3 | 1034.24 | 3.37 |
-| ResNet18 | 11,318,337 | 52.45 | 8.12 | 4.06 | 149.79 | 4.06 |
+| **ResNet18** | **11,318,337** | **52.45** | **8.12** | **4.06** | **149.79** | **4.06** |
 | ResNet50 | 23,634,945 | 252.61 |18.72	| 9.38	|595.69 |	4.07 |
 | ResNet101 |	42,627,073 | 372.14 |35.81 | 17.93	|907.20 |4.74 |
 | Inception v4 | 321,473 | 139.25 |16.52 | 8.26 |342.84 | 14.56 |
