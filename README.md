@@ -15,7 +15,7 @@
 
 * ## ⚛️ **_Datasets & Pre-trained models_**    
 [**🔗The EDW dataset**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/MNIST-Section-Dataset)     
-[**🔗The weights of the HPPN & DiffEDW**](https://github.com/AshenOneme/CCSC-Prediction-Inverse-Design/releases/tag/ModelWeights)
+[**🔗The weights of the HPPN & DiffEDW**](https://github.com/AshenOneme/SSIDM/releases/tag/Pretrained_weights)
 
 <div align=center>
   
