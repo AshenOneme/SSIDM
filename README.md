@@ -50,7 +50,7 @@ A total of *__12,800__* EDWs with dimensions of *__240 × 480__* and different s
 
 <!-- HPPN信息 -->
 * ## **_Generator parameters and test error_**
-8 neural network models were employed to construct the generator, with ResNet18 ultimately selected as the HPPN. The parameter information and errors for each model are presented in the table.
+8 neural network models were employed to construct the generator, with *__ResNet18__* ultimately selected as the HPPN. The parameter information and errors for each model are presented in the table.
 
 | Model | Params | Memory (MB) | Madd (G) | Flops (G) | MemR+W (MB) | RMSE (kN) |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
