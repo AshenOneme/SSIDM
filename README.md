@@ -13,6 +13,8 @@
    <div align=center><strong>Results of the inverse design of energy-dissipating walls</strong></div>
 </div><br>    
 
+<div align=center>
+  
 ## 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
   
 </div> 
@@ -24,7 +26,7 @@ ___
 <!-- 流程图 -->
 * ## **_Workflow_**
 
-In this work, a novel energy-dissipating system integrating non-structural infill walls and energy-dissipating walls (EDWs) is proposed to improve the seismic performance of frame-infill wall structures. Based on the diffusion model, a self-supervised inverse design model (SSIDM) is developed to enhance the design efficiency of complex EDWs.
+In this work, a novel energy-dissipating system integrating non-structural infill walls and energy-dissipating walls (EDWs) is proposed to improve the seismic performance of frame-infill wall structures. Based on the diffusion model, a self-supervised inverse design model (SSIDM) is developed to enhance the design accuracy of complex EDWs.
 <div align=center>
   <img width="1000" src="Imgs/Workflow2.png"/>
   <div align=center><strong>Fig.1 The proposed workflow for SSIDM</strong></div>
