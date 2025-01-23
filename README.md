@@ -63,4 +63,11 @@ A total of *__12,800__* EDWs with dimensions of *__240 × 480__* and different s
 | SwinT |	48,836,513 | 376.99 |486.67 |	246.27 |1331.20	| 18.06 |
 | ViT |	85,260,353 | 554.78 |208.98 |	104.95	|651.79 | 12.51 |
 
+<!-- 生成过程 -->
+* ## **_Generation process_**
 
+The generation process of the EDWs under three different mechanical property targets are illustrated in Fig. 3. The red lines represent the mechanical property requirements, while the blue lines indicate the FEA results of the intermediate products during the EDW generation process.
+<div align=center>
+  <img width="1000" src="Imgs/SSIDM_Generation.png"/>
+  <div align=center><strong>Fig.3. The generation process of SSIDM</strong></div>
+</div><br>
