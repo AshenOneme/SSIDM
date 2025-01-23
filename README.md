@@ -7,6 +7,6 @@
 <!-- 反向设计 -->
 * ## **_SSIDM for energy-dissipating wall generation_**
 <div align=center>
-  <img width="800" src="Imgs/Generation_process.gif"/>
+  <img width="600" src="Imgs/Generation_process.gif"/>
    <div align=center><strong>Results of the inverse design of energy-dissipating walls</strong></div>
 </div><br>    
