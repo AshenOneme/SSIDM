@@ -13,7 +13,10 @@
    <div align=center><strong>Results of the inverse design of energy-dissipating walls</strong></div>
 </div><br>    
 
-* ## ⚛️ **_Datasets & Pre-trained models_**    
+* ## ⚛️ **_Datasets & Pre-trained models_**
+  __Due to the large size of the HPPN training set, which is 10.2 GB, it can be obtained by contacting the corresponding author if necessary. The HPPN test set and the DiffEDW training set can be accessed via the link below.__
+
+      
 [**🔗The EDW dataset**](https://github.com/AshenOneme/SSIDM/releases/tag/EDW_Dataset)     
 [**🔗The weights of the HPPN & DiffEDW**](https://github.com/AshenOneme/SSIDM/releases/tag/Pretrained_weights)
 
