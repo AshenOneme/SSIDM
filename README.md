@@ -38,3 +38,11 @@ In this work, a novel energy-dissipating system integrating non-structural infil
   <img width="1000" src="Imgs/Workflow2.png"/>
   <div align=center><strong>Fig.1 The proposed workflow for SSIDM</strong></div>
 </div><br>
+
+<!-- 数据集 -->
+* ## **_Dataset_**    
+A total of 12,800 EDWs with dimensions of 240 × 480 and different structures were subjected to low-cycle hysteresis loading, resulting in the corresponding hysteresis curves.
+<div align=center>
+  <img width="1000" src="Imgs/Loading.gif"/>
+  <div align=center><strong>Fig.2 Low-cycle cyclic hysteresis loading</strong></div>
+</div><br>
