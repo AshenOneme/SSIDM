@@ -51,16 +51,16 @@ A total of *__12,800__* EDWs with dimensions of *__240 × 480__* and different s
 *__Partial presentation of the finite element model__*
 <table align="center" border="0" style="border-collapse: collapse;">
   <tr>
-    <td><img height="200px" src="Partial_data_presentation/30.png"/></td>
-    <td><img height="200px" src="Partial_data_presentation/100.png"/></td>
+    <td><img height="250px" src="Partial_data_presentation/30.png"/></td>
+    <td><img height="250px" src="Partial_data_presentation/100.png"/></td>
   </tr>
   <tr>
-    <td><img height="200px" src="Partial_data_presentation/110.png"/></td>
-    <td><img height="200px" src="Partial_data_presentation/140.png"/></td>
+    <td><img height="250px" src="Partial_data_presentation/110.png"/></td>
+    <td><img height="250px" src="Partial_data_presentation/140.png"/></td>
   </tr>
   <tr>
-    <td><img height="200px" src="Partial_data_presentation/160.png"/></td>
-    <td><img height="200px" src="Partial_data_presentation/170.png"/></td>
+    <td><img height="250px" src="Partial_data_presentation/160.png"/></td>
+    <td><img height="250px" src="Partial_data_presentation/170.png"/></td>
   </tr>
 </table>
 
