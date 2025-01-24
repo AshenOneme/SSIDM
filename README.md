@@ -48,12 +48,17 @@ A total of *__12,800__* EDWs with dimensions of *__240 × 480__* and different s
   <div align=center><strong>Fig. 3. Low-cycle cyclic hysteresis loading</strong></div>
 </div><br>
 
-* ### IDA分析结果展示 ###
+*__Partial presentation of the finite element model__*
 <table align="center" border="0" style="border-collapse: collapse;">
   <tr>
-    <td><img height="180px" src="https://user-images.githubusercontent.com/98397090/215072316-2d9b1a13-3a98-427c-bf7c-5ef6a4c370b0.png"/></td>
-    <td><img height="180px" src="https://user-images.githubusercontent.com/98397090/215072331-f61bb75b-4063-4d79-92d3-0cbed5465fcb.png"/></td>
-    <td><img height="180px" src="https://user-images.githubusercontent.com/98397090/215072340-185b5958-b00a-4ad1-95bf-fa0855a7350c.png"/></td>
+    <td><img height="180px" src="Partial_data_presentation/30.png"/></td>
+    <td><img height="180px" src="Partial_data_presentation/100.png"/></td>
+    <td><img height="180px" src="Partial_data_presentation/110.png"/></td>
+  </tr>
+  <tr>
+    <td><img height="180px" src="Partial_data_presentation/140.png"/></td>
+    <td><img height="180px" src="Partial_data_presentation/160.png"/></td>
+    <td><img height="180px" src="Partial_data_presentation/170.png"/></td>
   </tr>
 </table>
 
