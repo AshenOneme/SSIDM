@@ -19,19 +19,19 @@ class ClassConditionedUnet(nn.Module):
             sample_size=self.image_size,
             in_channels=1,
             out_channels=1,
-            layers_per_block=4,  # 残差层个数
+            layers_per_block=4,
             block_out_channels=(64,128,256,512),
             down_block_types=(
-                "DownBlock2D",  # 常规的ResNet下采样模块
-                "DownBlock2D",  # 常规的ResNet下采样模块
-                "AttnDownBlock2D",  # 含有spatial self-attention的ResNet下采样模块
+                "DownBlock2D",
+                "DownBlock2D",
+                "AttnDownBlock2D",
                 "AttnDownBlock2D",
             ),
             up_block_types=(
-                "AttnUpBlock2D",  # 含有spatil self-attention的ResNet上采样模块
-                "AttnUpBlock2D",  # 含有spatil self-attention的ResNet上采样模块
-                "UpBlock2D",  # 上采样模块
-                "UpBlock2D",  # 上采样模块
+                "AttnUpBlock2D",
+                "AttnUpBlock2D",
+                "UpBlock2D",
+                "UpBlock2D",
             ),
         )
 
