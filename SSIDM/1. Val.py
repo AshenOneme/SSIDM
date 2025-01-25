@@ -1,7 +1,7 @@
 import sys 
 dir='F:/Metamatreial_Walls/DDPM/CNN_DDPM'
 Valdir='Val1'
-outputNO='x8'
+outputNO='x1'
 sys.path.append(dir) 
 import torch
 import torchvision
@@ -20,11 +20,11 @@ from Dataset import DiffusionDataset
 device=torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 # noise_scheduler = DDPMScheduler(num_train_timesteps=1000, beta_schedule='squaredcos_cap_v2')
 noise_scheduler = DDIMScheduler(beta_schedule='squaredcos_cap_v2')
-noise_scheduler.set_timesteps(25)
+noise_scheduler.set_timesteps(100)
 ddpm = torch.load(dir+'/diffusionmodel.pt',weights_only=False)
 ddpm=ddpm.to(device)
 ddpm.eval()
-# 打印模型中的参数数量
+
 total_params = sum(p.numel() for p in ddpm.parameters())
 print(f"Total number of parameters: {total_params}")
 
