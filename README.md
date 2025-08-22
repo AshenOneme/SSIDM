@@ -4,6 +4,8 @@
   
 </div> 
 
+> **_I am pleased to report the publication of my first article on automated design using a diffusion model: https://doi.org/10.1016/j.tws.2025.113865._**
+
 <!-- 反向设计 -->
 * ## **_SSIDM for energy-dissipating wall generation_**
 <div align=center>
