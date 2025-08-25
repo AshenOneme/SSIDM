@@ -4,7 +4,7 @@
   
 </div> 
 
-⚠️⚠️⚠️
+🎉🎉🎉🎉🎉🎉
 > **_I am pleased to report the publication of my first article on automated design using diffusion models https://doi.org/10.1016/j.tws.2025.113865._**
 
 <!-- 反向设计 -->
